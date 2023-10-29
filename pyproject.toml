@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "gmc-500+ tool"
+version = "0.1.0"
+description = "Tool to read, write and parse data from the GMC-500+ Geiger Counter"
+authors = ["Martin.Heinrich <75615821+martinheinrich2@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyserial = "^3.5"
+pandas = "^2.1.0"
+packaging = "^23.2"
+customtkinter = "^5.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
