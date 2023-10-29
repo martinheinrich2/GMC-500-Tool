@@ -31,3 +31,5 @@ You can examine the created history bin file using a hex editor like Hex Fiend, 
 A bit of testing should give you an idea how the data is stored.
 
 ---
+
+<img width="597" alt="GMC-500+ Tool" src="https://github.com/martinheinrich2/GMC-500-Tool/assets/75615821/049f10c3-8fb4-4f94-b069-7945b648c096">
